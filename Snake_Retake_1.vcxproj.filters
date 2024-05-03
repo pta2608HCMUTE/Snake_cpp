@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{0ddcd385-d4ba-43e7-aa45-8b0a3c653418}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\Images">
+      <UniqueIdentifier>{9708ac89-d3c5-4fb4-8aba-0e476693a949}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\Fonts">
+      <UniqueIdentifier>{dc45eb4a-415f-42bf-a049-27606f3c25b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets\Sounds">
+      <UniqueIdentifier>{ed09de49-cf1e-4b9f-81b0-ea8ce019b5bd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="State_Management.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Asset_Manegement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_Menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePlay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Snake.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HowToPlay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="State.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="State_Management.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Asset_Manegement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_Menu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePlay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Snake.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HowToPlay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="backgoundImg.jpg">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="backgoundImg1280x760.jpg">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="grass.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="food.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="snake.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="snake_rec.jpg">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="wall.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="long.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="medium.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="small.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="music_disable.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="music_enable.png">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="backgoundImg1080x760.jpg">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="menubackgoundImg1080x760.jpg">
+      <Filter>Assets\Images</Filter>
+    </Image>
+    <Image Include="gameover.jpg">
+      <Filter>Assets\Images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="BackGroundSound.wav">
+      <Filter>Assets\Sounds</Filter>
+    </Media>
+    <Media Include="Eating.wav">
+      <Filter>Assets\Sounds</Filter>
+    </Media>
+    <Media Include="MenuBGS.wav">
+      <Filter>Assets\Sounds</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="OFL.txt">
+      <Filter>Assets\Fonts</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Pacifico-Regular.ttf">
+      <Filter>Assets\Fonts</Filter>
+    </Font>
+    <Font Include="arial.ttf">
+      <Filter>Assets\Fonts</Filter>
+    </Font>
+  </ItemGroup>
+</Project>

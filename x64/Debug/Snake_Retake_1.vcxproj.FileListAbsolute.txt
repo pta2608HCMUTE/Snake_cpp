@@ -1,0 +1,8 @@
+D:\Dai hoc\2023-2024 HK1\C++\Final_Project\Snake_Retake_1\x64\Debug\Final_Project.exe
+D:\Dai hoc\2023-2024 HK1\C++\Final\Final\x64\Debug\Final_Project.exe
+D:\Dai hoc\2023-2024 HK1\C++\Final\Final - Copy\x64\Debug\Final_Project.exe
+D:\Dai hoc\2023-2024 HK1\C++\Final\Backup1\x64\Debug\Final_Project.exe
+D:\Dai hoc\2023-2024 HK1\C++\Final\Backup3\x64\Debug\Final_Project.exe
+D:\Dai hoc\2023-2024 HK1\C++\Final\FinalV.2\x64\Debug\Final_Project.exe
+E:\Học tập\Năm 4 kỳ 1\OPP\final\FinalV.2\x64\Debug\Final_Project.exe
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\x64\Debug\Final_Project.exe

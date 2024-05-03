@@ -1,0 +1,180 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Snake_Retake_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Asset_Manegement.cpp
+  Game.cpp
+  GameOver.cpp
+  GamePlay.cpp
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(10,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(24,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(24,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(25,35): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(29,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(29,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(33,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(33,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(34,35): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(38,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(38,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(42,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(42,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(43,37): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(47,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(47,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(74,45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(77,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(80,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(86,36): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(85,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(136,14): warning C4305: '=': truncation from 'double' to 'float'
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(140,14): warning C4305: '=': truncation from 'double' to 'float'
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(144,14): warning C4305: '=': truncation from 'double' to 'float'
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(148,14): warning C4305: '=': truncation from 'double' to 'float'
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(152,14): warning C4305: '=': truncation from 'double' to 'float'
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(173,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\GamePlay.cpp(173,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  HowToPlay.cpp
+  Main_Menu.cpp
+  PauseGame.cpp
+  State_Management.cpp
+  main.cpp
+  Generating Code...
+  Snake_Retake_1.vcxproj -> E:\Nam4Ki1\C\FINAL\FinalV.3\FinalV.3\x64\Debug\Final_Project.exe
